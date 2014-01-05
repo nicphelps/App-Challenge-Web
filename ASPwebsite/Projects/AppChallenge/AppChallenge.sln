@@ -1,18 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "AppChallenge", "..\..\WebSites\AppChallenge\", "{2BF5749D-37DC-4D45-BC64-003F8CD1FF77}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "AppChallenge", "..\..\AppChallenge\", "{2BF5749D-37DC-4D45-BC64-003F8CD1FF77}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
 		Debug.AspNetCompiler.VirtualPath = "/AppChallenge"
-		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\AppChallenge\"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\AppChallenge\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\AppChallenge\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/AppChallenge"
-		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\AppChallenge\"
+		Release.AspNetCompiler.PhysicalPath = "..\..\AppChallenge\"
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\AppChallenge\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
