@@ -35,10 +35,10 @@
                     <Items>
                         <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Home"/>
                         <asp:MenuItem NavigateUrl="~/MembersOnly/About.aspx" Text="About"/>
-                        <asp:MenuItem NavigateUrl="~/MembersOnly/About.aspx" Text="Projects"/>
-                        <asp:MenuItem NavigateUrl="~/MembersOnly/About.aspx" Text="Ideas"/>
-                        <asp:MenuItem NavigateUrl="~/MembersOnly/About.aspx" Text="Groups"/>
-                        <asp:MenuItem NavigateUrl="~/MembersOnly/About.aspx" Text="Tutorials"/>
+                        <asp:MenuItem NavigateUrl="~/MembersOnly/Project.aspx" Text="Projects"/>
+                        <asp:MenuItem NavigateUrl="~/MembersOnly/Ideas.aspx" Text="Ideas"/>
+                        <asp:MenuItem NavigateUrl="~/MembersOnly/Groups.aspx" Text="Groups"/>
+                        <asp:MenuItem NavigateUrl="~/MembersOnly/Tutorials.aspx" Text="Tutorials"/>
                         <asp:MenuItem NavigateUrl="~/MembersOnly/About.aspx" Text="Forums"/>
                     </Items>
                 </asp:Menu>

@@ -29,7 +29,8 @@ public partial class Account_Login : System.Web.UI.Page
         else // User already signede into LinkedIn so set the auth cookie.
         {
             var p = session.GetProfile();
-            FormsAuthentication.SetAuthCookie(p.UserId, false);
+            string userName = p.Firstname + " " + p.Lastname;
+            FormsAuthentication.SetAuthCookie(userName, false);
             Response.Redirect("~");
         }
     }
