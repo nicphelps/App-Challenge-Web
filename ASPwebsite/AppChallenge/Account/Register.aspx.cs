@@ -14,7 +14,7 @@ public partial class Account_Register : System.Web.UI.Page
         RegisterUser.ContinueDestinationPageUrl = Request.QueryString["ReturnUrl"];
     }
 
-    protected void RegisterUser_CreatedUser(object sender, EventArgs e)
+    public void RegisterUser_CreatedUser(object sender, EventArgs e)
     {
         FormsAuthentication.SetAuthCookie(RegisterUser.UserName, false /* createPersistentCookie */);
 

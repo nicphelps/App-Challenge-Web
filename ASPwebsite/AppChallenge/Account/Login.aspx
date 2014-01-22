@@ -2,27 +2,9 @@
     CodeFile="Login.aspx.cs" Inherits="Account_Login" %>
 
 <asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="HeadContent">
-    <script type="text/javascript" src="http://platform.linkedin.com/in.js">
-    api_key: 755mysmmw301gi
-    authorize: true
-    lang:  en_US
-    </script> 
- <script type="text/javascript">
-     function onLinkedInAuth() {
-        
-             IN.API.Profile("me")
-                            .result(function (me) {
-                                var id = me.values[0].id;
-                                // AJAX call to pass back id to your server
-                            });
-
-
-                        }
     
-</script>
 
 </asp:Content>
-
 
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <script type="text/javascript">
@@ -31,7 +13,7 @@
     <h2>
         Log In
     </h2>
-    <p id = "HELP">
+    <p>
         Please enter your username and password.
         <asp:HyperLink ID="RegisterHyperLink" runat="server" EnableViewState="false">Register</asp:HyperLink> if you don't have an account.
     </p>
@@ -64,18 +46,17 @@
                         <asp:Label ID="RememberMeLabel" runat="server" AssociatedControlID="RememberMe" CssClass="inline">Keep me logged in</asp:Label>
                         &nbsp;
                         
-                      <!-- <script type="IN/Login">
-                            <form action="/register.html"> 
-                            <p>Your Name: <input type="text" name="name" value="<?js= firstName ?> <?js= lastName ?>" /></p>
-                            <p>Your Password: <input type="password" name="password" /></p>
-                            <input type="hidden" name="linkedin-id" value="<?js= id ?>" />
+                    <script type="IN/Login" data-onAuth="onLinkedInAuth">
                             
-                       </script>-->
+                     </script>
+                        
                     </p>
                 </fieldset>
                
                 <p class="submitButton">
                     <asp:Button ID="LoginButton" runat="server" CommandName="Login" Text="Log In" ValidationGroup="LoginUserValidationGroup"/>
+                    &nbsp;&nbsp;&nbsp;
+                    <asp:Button ID="LiButton" runat="server" OnClick="LiButtonClick" EnableViewState="false" Text="LinkedIn" />
                 </p>
               
                  

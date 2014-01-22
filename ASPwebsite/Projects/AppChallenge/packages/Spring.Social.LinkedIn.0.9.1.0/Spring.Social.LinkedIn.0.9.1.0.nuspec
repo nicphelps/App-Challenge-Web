@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Spring.Social.LinkedIn</id>
+    <version>0.9.1.0</version>
+    <title>Spring.Social.LinkedIn</title>
+    <authors>SpringSource</authors>
+    <owners>SpringSource</owners>
+    <licenseUrl>http://www.springframework.net/license.html</licenseUrl>
+    <projectUrl>http://www.springframework.net/social-linkedin/</projectUrl>
+    <iconUrl>http://springframework.net/images/SpringSource_Leaves32x32.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Spring.NET Social Framework extension for LinkedIn</description>
+    <summary>Allows you to connect your applications with LinkedIn.</summary>
+    <releaseNotes />
+    <copyright />
+    <language />
+    <tags>Spring Social REST JSON HTTP LinkedIn</tags>
+    <dependencies>
+      <dependency id="Spring.Rest" version="[1.1.0]" />
+      <dependency id="Spring.Social.Core" version="[1.0.0]" />
+    </dependencies>
+  </metadata>
+</package>
