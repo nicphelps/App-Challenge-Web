@@ -17,10 +17,7 @@ public partial class ReturnClass : System.Web.UI.Page
             {
                 session.StoreInUserSession();
                 var p = session.GetProfile();
-                string first_name = p.Firstname;
-                string last_name = p.Lastname;
-                string user_id = p.UserId;
-                FormsAuthentication.SetAuthCookie(p.UserId, false);
+                FormsAuthentication.SetAuthCookie(p.Firstname + " " + p.Lastname, false);
                 Response.Redirect("~");
             }
         
