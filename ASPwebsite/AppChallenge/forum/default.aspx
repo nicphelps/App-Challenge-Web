@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" ValidateRequest="false" Inherits="YAF.ForumPageBase" %>
+﻿<%@ Page Language="C#"  AutoEventWireup="true" ValidateRequest="false" Inherits="YAF.ForumPageBase"  %>
 <%@ Register TagPrefix="YAF" Assembly="YAF" Namespace="YAF" %>
 <script runat="server">
 	
@@ -17,8 +17,8 @@
     <title></title>
 </head>
 <body style="margin: 0; padding: 5px">
-    <asp:HyperLink runat="server" id="BannerLink" >
-        <img src="~/forumlogo.jpg" runat="server" alt="logo" style="border: 0;" id="imgBanner" />
+    <asp:HyperLink runat="server" id="BannerLink2" NavigateUrl="~/Default.aspx" >
+        <img src="~/forumlogo.jpg" runat="server" alt="logo" style="border: 0;" id="imgBanner2" />
     </asp:HyperLink>
     <br />
     <form id="form1" runat="server" enctype="multipart/form-data">

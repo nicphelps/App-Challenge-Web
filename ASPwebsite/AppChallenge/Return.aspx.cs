@@ -6,6 +6,9 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using LinkedIn.OAuth;
 using System.Web.Security;
+using YAF.Core;
+using YAF.Types.EventProxies;
+
 
 public partial class ReturnClass : System.Web.UI.Page
 {
@@ -18,10 +21,15 @@ public partial class ReturnClass : System.Web.UI.Page
                 session.StoreInUserSession();
                 var p = session.GetProfile();
 
-                var user = Membership.GetUser(p.UserId);
+                var user = Membership.GetUser(p.Firstname + " " + p.Lastname+" ("+p.UserId+")");
                 if (user == null)
                 {
-                    user = Membership.CreateUser(p.UserId, Guid.NewGuid().ToString());
+                    var pass = Guid.NewGuid().ToString();
+                    user = Membership.CreateUser(p.Firstname + " " + p.Lastname + " (" + p.UserId + ")", pass);
+
+                    
+
+                   
                 }
 
 

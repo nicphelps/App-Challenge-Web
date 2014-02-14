@@ -11,7 +11,7 @@
           id="IdeaListDS"
           runat="server"
           DataSourceMode="DataReader"
-          ConnectionString="<%$ ConnectionStrings:Storage%>"
+          ConnectionString="<%$ ConnectionStrings:ApplicationServices%>"
           SelectCommand="SELECT ListEntry FROM IdeaList"> </asp:SqlDataSource>
     <asp:TextBox ID="IdeaTextbox" runat="server" Height="106px"  Width="366px" TextMode="multiline"></asp:TextBox>
     <br />

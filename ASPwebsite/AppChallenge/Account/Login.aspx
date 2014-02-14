@@ -15,7 +15,7 @@
     </h2>
     <p>
         Please enter your username and password.
-        <asp:HyperLink ID="RegisterHyperLink" runat="server" EnableViewState="false">Register</asp:HyperLink> if you don't have an account.
+        <asp:HyperLink ID="RegisterHyperLink" runat="server" EnableViewState="false" NavigateUrl="~/Account/Register.aspx">Register</asp:HyperLink> if you don't have an account.
     </p>
     <asp:Login ID="LoginUser" runat="server" EnableViewState="false" RenderOuterTable="false">
         <LayoutTemplate>
@@ -46,9 +46,7 @@
                         <asp:Label ID="RememberMeLabel" runat="server" AssociatedControlID="RememberMe" CssClass="inline">Keep me logged in</asp:Label>
                         &nbsp;
                         
-                    <script type="IN/Login" data-onAuth="onLinkedInAuth">
-                            
-                     </script>
+                  
                         
                     </p>
                 </fieldset>
@@ -56,7 +54,7 @@
                 <p class="submitButton">
                     <asp:Button ID="LoginButton" runat="server" CommandName="Login" Text="Log In" ValidationGroup="LoginUserValidationGroup"/>
                     &nbsp;&nbsp;&nbsp;
-                    <asp:Button ID="LiButton" runat="server" OnClick="LiButtonClick" EnableViewState="false" Text="LinkedIn" />
+                    <asp:Button ID="LiButton" runat="server" OnClick="LiButtonClick" Text="LinkedIn"  CommandName="Login" ValidationGroup="LoginUserValidationGroup"/>
                 </p>
               
                  
