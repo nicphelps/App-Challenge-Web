@@ -148,12 +148,12 @@ div.hideSkiplink
     width:100%;
 }
 
-div.menu
+.menu a
 {
     padding: 4px 0px 4px 8px;
 }
 
-div.menu ul
+.menu ul
 {
     list-style: none;
     margin: 0px;
@@ -161,7 +161,7 @@ div.menu ul
     width: auto;
 }
 
-div.menu ul li a, div.menu ul li a:visited
+.menu ul li a, .menu ul li a:visited
 {
     background-color: #465c71;
     border: 1px #4e667d solid;
@@ -173,14 +173,14 @@ div.menu ul li a, div.menu ul li a:visited
     white-space: nowrap;
 }
 
-div.menu ul li a:hover
+.menu ul li a:hover
 {
     background-color: #bfcbd6;
     color: #465c71;
     text-decoration: none;
 }
 
-div.menu ul li a:active
+.menu ul li a:active
 {
     background-color: #465c71;
     color: #cfdbe6;

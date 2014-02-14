@@ -17,6 +17,15 @@ public partial class ReturnClass : System.Web.UI.Page
             {
                 session.StoreInUserSession();
                 var p = session.GetProfile();
+
+                var user = Membership.GetUser(p.UserId);
+                if (user == null)
+                {
+                    user = Membership.CreateUser(p.UserId, Guid.NewGuid().ToString());
+                }
+
+
+
                 FormsAuthentication.SetAuthCookie(p.Firstname + " " + p.Lastname, false);
                 Response.Redirect("~");
             }
