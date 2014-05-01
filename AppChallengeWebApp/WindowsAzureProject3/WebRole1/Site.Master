@@ -1,0 +1,71 @@
+﻿<%@ Master Language="C#" AutoEventWireup="True" CodeBehind="Site.master.cs" Inherits="WebRole1.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1" runat="server">
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="Form1" runat="server">
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <h1>
+                    <asp:Image ID="AppChallengeImage" ImageUrl="~/Images/OSU-App-Challenge-Final.png" Width="400px" Height="124px" runat="server" NavigateUrl="~/default.aspx" />
+                </h1>
+            </div>
+            <div class="loginDisplay">
+                <asp:LoginView ID="HeadLoginView" runat="server" EnableViewState="false">
+                    <AnonymousTemplate>
+                        [ <a href="~/Account/Login.aspx" ID="HeadLoginStatus" runat="server">Log In</a> ]
+                    </AnonymousTemplate>
+                    <LoggedInTemplate>
+                        Welcome <span class="bold"><asp:LoginName ID="HeadLoginName" runat="server" /></span>!
+                        [ <asp:LoginStatus ID="HeadLoginStatus" runat="server" LogoutAction="Redirect" LogoutText="Log Out" LogoutPageUrl="~/"/> | <asp:Hyperlink ID="MySkillsHL" NavigateUrl="~/MembersOnly/MySkill.aspx" Text="My Skills"  runat= "server"/>]
+                </LoggedInTemplate>
+                </asp:LoginView>
+            </div>
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Home"/>
+                        <asp:MenuItem NavigateUrl="~/About.aspx" Text="About"/>
+                        <asp:MenuItem NavigateUrl="~/RegGroup.aspx" Text="Event Sign Up"/>
+                        <asp:MenuItem NavigateUrl="~/Tutorials.aspx" Text="Tutorials"/>
+                        <asp:MenuItem NavigateUrl="~/MembersOnly/Ideas.aspx" Text="Ideas"/>
+                        <asp:MenuItem NavigateUrl="~/MembersOnly/People.aspx" Text="People"/>
+                        <asp:MenuItem NavigateUrl="~/MembersOnly/Groups.aspx" Text="Groups"/>
+                        
+                    </Items>
+                </asp:Menu>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+        <div id="sponsors">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="http://urbanairship.com/" target="_blank">
+                <asp:Image ID="urbanair" ImageUrl="~/Images/urbanairship.png" Width="113px" Height="50px" runat="server" NavigateUrl="~/default.aspx" />
+            </a>
+            <a href="http://puppetlabs.com/" target="_blank">
+                <asp:Image ID="Image1" ImageUrl="~/Images/puppet-labs.png" Width="120px" Height="50px" runat="server" NavigateUrl="~/default.aspx" />
+            </a>
+            <a href="http://www.vadio.com/" target="_blank">
+                <asp:Image ID="Image2" ImageUrl="~/Images/vadio.png" Width="150px" Height="50px" runat="server" NavigateUrl="~/default.aspx" />
+            </a>
+            <a href="https://www.google.com/" target="_blank">
+                <asp:Image ID="Image3" ImageUrl="~/Images/google.png" Width="160px" Height="50px" runat="server" NavigateUrl="~/default.aspx" />
+            </a>
+            &nbsp;</div>
+    </div>
+    </form>
+</body>
+</html>

@@ -44,7 +44,7 @@
                         <asp:MenuItem NavigateUrl="~/MembersOnly/Groups.aspx" Text="Groups"/>
                         <asp:MenuItem NavigateUrl="~/MembersOnly/People.aspx" Text="People"/>
                         <asp:MenuItem NavigateUrl="~/MembersOnly/Tutorials.aspx" Text="Tutorials"/>
-                        <asp:MenuItem NavigateUrl="~/forum/default.aspx" Text="Forums"/>
+                        <asp:MenuItem NavigateUrl="~/MembersOnly/About.aspx" Text="Forums"/>
                         
                     </Items>
                 </asp:Menu>

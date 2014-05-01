@@ -1,0 +1,244 @@
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\ServiceConfiguration.cscfg
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\bin\Microsoft.WindowsAzure.Diagnostics.dll
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\bin\Microsoft.WindowsAzure.Diagnostics.xml
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\bin\Microsoft.WindowsAzure.StorageClient.dll
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\bin\Microsoft.WindowsAzure.StorageClient.xml
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\bin\WebRole1.dll
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\bin\WebRole1.pdb
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\RuntimeSetup.Manifest
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x64\Diagnostics.dll
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x64\IISConfigurator.exe
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x64\msshrtmi.dll
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x64\mswasr.dll
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x64\mswasri.dll
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x64\WaHostBootstrapper.exe
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x64\WaIISHost.exe
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x64\WaRuntimeProxy.dll
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x64\WaWebHost.exe
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x64\WaWorkerHost.exe
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x86\Diagnostics.dll
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x86\IISConfigurator.exe
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x86\msshrtmi.dll
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x86\mswasr.dll
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x86\mswasri.dll
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x86\WaHostBootstrapper.exe
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x86\WaIISHost.exe
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x86\WaRuntimeProxy.dll
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x86\WaWebHost.exe
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x86\WaWorkerHost.exe
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\diagnostics\x64\monitor\EtwListener.dll
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\diagnostics\x64\monitor\FileListener.dll
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\diagnostics\x64\monitor\MonAgent.dll
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\diagnostics\x64\monitor\MonAgentHost.exe
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\diagnostics\x64\monitor\MonDiagnostics.dll
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\diagnostics\x64\monitor\MonEvents.dll
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\diagnostics\x64\monitor\MonNetTransport.dll
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\diagnostics\x64\monitor\MonQuery.dll
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\diagnostics\x64\monitor\MonTables.dll
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\diagnostics\x64\monitor\secutil.dll
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\diagnostics\x64\monitor\SysCounterListener.dll
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\diagnostics\x64\monitor\SystemEventsListener.dll
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\diagnostics\x64\monitor\schema\1.0\ma.xsd
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\diagnostics\x64\monitor\schema\1.0\maStatic.xsd
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\diagnostics\x64\monitor\schema\1.0\query.xsd
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\diagnostics\x64\monitor\schema\1.0\shared.xsd
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\__entrypoint.txt
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x64\WaIISHost.exe.config
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\plugins\Diagnostics\Diagnostics.csplugin
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\plugins\Diagnostics\DiagnosticsAgent.exe
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\plugins\Diagnostics\Microsoft.WindowsAzure.Diagnostics.dll
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\plugins\Diagnostics\Microsoft.WindowsAzure.StorageClient.dll
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\plugins\Diagnostics\mswapd.dll
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\RoleModel.xml
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\ServiceDefinition.build.rd
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\ServiceDefinition.build.rdsc
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\ServiceDefinition.build.csdef
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\ResolveAssemblyReference.cache
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.xml
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.dll
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.xml
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\bin\WebRole1.dll
+c:\users\mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\bin\WebRole1.pdb
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\About.aspx
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Default.aspx
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Global.asax
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Site.Master
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Web.config
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Account\ChangePassword.aspx
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Account\ChangePasswordSuccess.aspx
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Account\Login.aspx
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Account\Register.aspx
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Account\Web.config
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Files\CoolApp.zip
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Images\forumlogo.jpg
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\MembersOnly\Groups.aspx
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\MembersOnly\Ideas.aspx
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\MembersOnly\MySkill.aspx
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\MembersOnly\People.aspx
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\MembersOnly\RegGroup.aspx
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\MembersOnly\Success.aspx
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\MembersOnly\Tutorials.aspx
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\MembersOnly\web.config
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Scripts\jquery-1.4.1-vsdoc.js
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Scripts\jquery-1.4.1.js
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Scripts\jquery-1.4.1.min.js
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Styles\Site.css
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\About.aspx
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Account\ChangePassword.aspx
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Account\ChangePasswordSuccess.aspx
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Account\Login.aspx
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Account\Register.aspx
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Account\Web.config
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Default.aspx
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Files\CoolApp.zip
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Global.asax
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Images\forumlogo.jpg
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\MembersOnly\Groups.aspx
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\MembersOnly\Ideas.aspx
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\MembersOnly\MySkill.aspx
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\MembersOnly\People.aspx
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\MembersOnly\RegGroup.aspx
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\MembersOnly\Success.aspx
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\MembersOnly\Tutorials.aspx
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\MembersOnly\web.config
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Scripts\jquery-1.4.1-vsdoc.js
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Scripts\jquery-1.4.1.js
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Scripts\jquery-1.4.1.min.js
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Site.Master
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Styles\Site.css
+C:\Users\Mavid\documents\visual studio 2010\Projects\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Web.config
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\ServiceConfiguration.cscfg
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\bin\Microsoft.WindowsAzure.StorageClient.xml
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\bin\WebRole1.dll
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\bin\WebRole1.pdb
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\RuntimeSetup.Manifest
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x64\Diagnostics.dll
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x64\IISConfigurator.exe
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x64\msshrtmi.dll
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x64\mswasr.dll
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x64\mswasri.dll
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x64\WaHostBootstrapper.exe
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x64\WaIISHost.exe
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x64\WaRuntimeProxy.dll
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x64\WaWebHost.exe
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x64\WaWorkerHost.exe
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x86\Diagnostics.dll
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x86\IISConfigurator.exe
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x86\msshrtmi.dll
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x86\mswasr.dll
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x86\mswasri.dll
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x86\WaHostBootstrapper.exe
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x86\WaIISHost.exe
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x86\WaRuntimeProxy.dll
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x86\WaWebHost.exe
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x86\WaWorkerHost.exe
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\diagnostics\x64\monitor\EtwListener.dll
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\diagnostics\x64\monitor\FileListener.dll
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\diagnostics\x64\monitor\MonAgent.dll
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\diagnostics\x64\monitor\MonAgentHost.exe
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\diagnostics\x64\monitor\MonDiagnostics.dll
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\diagnostics\x64\monitor\MonEvents.dll
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\diagnostics\x64\monitor\MonNetTransport.dll
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\diagnostics\x64\monitor\MonQuery.dll
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\diagnostics\x64\monitor\MonTables.dll
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\diagnostics\x64\monitor\secutil.dll
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\diagnostics\x64\monitor\SysCounterListener.dll
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\diagnostics\x64\monitor\SystemEventsListener.dll
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\diagnostics\x64\monitor\schema\1.0\ma.xsd
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\diagnostics\x64\monitor\schema\1.0\maStatic.xsd
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\diagnostics\x64\monitor\schema\1.0\query.xsd
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\diagnostics\x64\monitor\schema\1.0\shared.xsd
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\__entrypoint.txt
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\base\x64\WaIISHost.exe.config
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\plugins\Diagnostics\Diagnostics.csplugin
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\plugins\Diagnostics\DiagnosticsAgent.exe
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\plugins\Diagnostics\Microsoft.WindowsAzure.Diagnostics.dll
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\plugins\Diagnostics\Microsoft.WindowsAzure.StorageClient.dll
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\plugins\Diagnostics\mswapd.dll
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\RoleModel.xml
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\ServiceDefinition.build.rd
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\ServiceDefinition.build.rdsc
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\ServiceDefinition.build.csdef
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.xml
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\bin\WebRole1.dll
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\bin\WebRole1.pdb
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WindowsAzureProject3.ccprojResolveAssemblyReference.cache
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\bin\Newtonsoft.Json.dll
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\bin\Newtonsoft.Json.xml
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\bin\Newtonsoft.Json.dll
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\bin\Newtonsoft.Json.xml
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\About.aspx
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Default.aspx
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Global.asax
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\packages.config
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\RegGroup.aspx
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Site.Master
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Success.aspx
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Tutorials.aspx
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Web.config
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Account\ChangePassword.aspx
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Account\ChangePasswordSuccess.aspx
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Account\Login.aspx
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Account\Register.aspx
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Account\Web.config
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Files\CoolApp.zip
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Images\developer.jpg
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Images\forumlogo.jpg
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Images\google.png
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Images\intel.png
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Images\OSU-App-Challenge-Final.png
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Images\puppet-labs.png
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Images\urbanairship.jpg
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Images\urbanairship.png
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Images\vadio.png
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\MembersOnly\Groups.aspx
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\MembersOnly\Ideas.aspx
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\MembersOnly\MySkill.aspx
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\MembersOnly\People.aspx
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\MembersOnly\Return.aspx
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\MembersOnly\web.config
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Scripts\jquery-1.4.1-vsdoc.js
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Scripts\jquery-1.4.1.js
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Scripts\jquery-1.4.1.min.js
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\bin\Debug\WindowsAzureProject3.csx\roles\WebRole1\approot\Styles\Site.css
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\About.aspx
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Account\ChangePassword.aspx
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Account\ChangePasswordSuccess.aspx
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Account\Login.aspx
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Account\Register.aspx
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Account\Web.config
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Default.aspx
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Files\CoolApp.zip
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Global.asax
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Images\developer.jpg
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Images\forumlogo.jpg
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Images\google.png
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Images\intel.png
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Images\OSU-App-Challenge-Final.png
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Images\puppet-labs.png
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Images\urbanairship.jpg
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Images\urbanairship.png
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Images\vadio.png
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\MembersOnly\Groups.aspx
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\MembersOnly\Ideas.aspx
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\MembersOnly\MySkill.aspx
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\MembersOnly\People.aspx
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\MembersOnly\Return.aspx
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\MembersOnly\web.config
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\packages.config
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\RegGroup.aspx
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Scripts\jquery-1.4.1-vsdoc.js
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Scripts\jquery-1.4.1.js
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Scripts\jquery-1.4.1.min.js
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Site.Master
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Styles\Site.css
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Success.aspx
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Tutorials.aspx
+C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\Web.config

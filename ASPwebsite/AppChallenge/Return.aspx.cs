@@ -6,8 +6,7 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using LinkedIn.OAuth;
 using System.Web.Security;
-using YAF.Core;
-using YAF.Types.EventProxies;
+
 
 
 public partial class ReturnClass : System.Web.UI.Page
