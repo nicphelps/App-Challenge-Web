@@ -18,3 +18,14 @@ C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WebRole1\obj\Debu
 C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WebRole1\obj\Debug\WebRole1.csprojResolveAssemblyReference.cache
 C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WebRole1\bin\Newtonsoft.Json.dll
 C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WebRole1\bin\Newtonsoft.Json.xml
+C:\cygwin64\home\Mavid\App-Challenge-Web\AppChallengeWebApp\WindowsAzureProject3\WebRole1\obj\Debug\WebRole1.csprojResolveAssemblyReference.cache
+C:\cygwin64\home\Mavid\App-Challenge-Web\AppChallengeWebApp\WindowsAzureProject3\WebRole1\obj\Debug\WebRole1.dll
+C:\cygwin64\home\Mavid\App-Challenge-Web\AppChallengeWebApp\WindowsAzureProject3\WebRole1\bin\WebRole1.dll
+C:\cygwin64\home\Mavid\App-Challenge-Web\AppChallengeWebApp\WindowsAzureProject3\WebRole1\bin\WebRole1.pdb
+C:\cygwin64\home\Mavid\App-Challenge-Web\AppChallengeWebApp\WindowsAzureProject3\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\cygwin64\home\Mavid\App-Challenge-Web\AppChallengeWebApp\WindowsAzureProject3\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\cygwin64\home\Mavid\App-Challenge-Web\AppChallengeWebApp\WindowsAzureProject3\WebRole1\bin\Newtonsoft.Json.dll
+C:\cygwin64\home\Mavid\App-Challenge-Web\AppChallengeWebApp\WindowsAzureProject3\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\cygwin64\home\Mavid\App-Challenge-Web\AppChallengeWebApp\WindowsAzureProject3\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.xml
+C:\cygwin64\home\Mavid\App-Challenge-Web\AppChallengeWebApp\WindowsAzureProject3\WebRole1\bin\Newtonsoft.Json.xml
+C:\cygwin64\home\Mavid\App-Challenge-Web\AppChallengeWebApp\WindowsAzureProject3\WebRole1\obj\Debug\WebRole1.pdb

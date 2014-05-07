@@ -5,13 +5,13 @@
     <DeploymentAccountName>AprilCred</DeploymentAccountName>
     <DeploymentHostedService>osuappchallenge</DeploymentHostedService>
     <DeploymentHostedServiceLabel>osuappchallenge</DeploymentHostedServiceLabel>
-    <DeploymentSlot>Production</DeploymentSlot>
+    <DeploymentSlot>Staging</DeploymentSlot>
     <DeploymentIncludeIntellitrace>False</DeploymentIncludeIntellitrace>
     <DeploymentEnableWebDeploy>False</DeploymentEnableWebDeploy>
     <DeploymentStorageService>appchallenge</DeploymentStorageService>
     <DeploymentStorageServiceLabel>appchallenge</DeploymentStorageServiceLabel>
-    <DeploymentLabel>WindowsAzureProject3 - 4/25/2014 5:17:48 PM</DeploymentLabel>
+    <DeploymentLabel>WindowsAzureProject3 - 5/1/2014 4:07:07 PM</DeploymentLabel>
     <DeploymentPromptBeforeDeleting>False</DeploymentPromptBeforeDeleting>
-    <DeploymentIsExpanded>False</DeploymentIsExpanded>
+    <DeploymentIsExpanded>True</DeploymentIsExpanded>
   </PropertyGroup>
 </Project>

@@ -22,19 +22,19 @@
     <Property name="ProjectName" value="WebRole1" />
     <Property name="Configuration" value="Debug" />
     <Property name="Platform" value="AnyCPU" />
-    <Property name="OutputDir" value="C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\" />
+    <Property name="OutputDir" value="C:\cygwin64\home\Mavid\App-Challenge-Web\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\" />
     <Property name="EntryPoint" value="WebRole1.dll" />
-    <Property name="SourceDir" value="C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WebRole1\" />
+    <Property name="SourceDir" value="C:\cygwin64\home\Mavid\App-Challenge-Web\AppChallengeWebApp\WindowsAzureProject3\WebRole1\" />
     <Property name="RoleTargetFramework" value="v4.0" />
-    <Property name="SitePhysicalPath" value="C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\" />
-    <Property name="OriginalItemSpec" value="C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\WindowsAzureProject3.ccproj" />
-    <Property name="MSBuildSourceProjectFile" value="C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\WindowsAzureProject3.ccproj" />
+    <Property name="SitePhysicalPath" value="C:\cygwin64\home\Mavid\App-Challenge-Web\AppChallengeWebApp\WindowsAzureProject3\WebRole1\" />
+    <Property name="OriginalItemSpec" value="C:\cygwin64\home\Mavid\App-Challenge-Web\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\WindowsAzureProject3.ccproj" />
+    <Property name="MSBuildSourceProjectFile" value="C:\cygwin64\home\Mavid\App-Challenge-Web\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\WindowsAzureProject3.ccproj" />
     <Property name="MSBuildSourceTargetName" value="ResolveSingleWebRoleReference" />
     <Property name="TargetFrameworkVersion" value="v4.0" />
     <Property name="TargetRuntimeVersion" value="v4.0" />
   </Properties>
   <Sites>
-    <Site name="Web" physicalDirectory="C:\cygwin64\home\Mavid\AppChallengeWebApp\WindowsAzureProject3\WindowsAzureProject3\obj\Debug\WebRole1\">
+    <Site name="Web" physicalDirectory="C:\cygwin64\home\Mavid\App-Challenge-Web\AppChallengeWebApp\WindowsAzureProject3\WebRole1\">
       <Bindings>
         <Binding name="Endpoint1" endpointName="Endpoint1" />
       </Bindings>

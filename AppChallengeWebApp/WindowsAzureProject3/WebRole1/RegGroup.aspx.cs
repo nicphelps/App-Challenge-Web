@@ -36,7 +36,7 @@ namespace WebRole1
                  Questions:" + QuestionTB.Text;
                    
             MailMessage mail = new MailMessage();
-            mail.To.Add("davidmeehan7@gmail.com");
+            mail.To.Add("davidmeehan7@gmail.com,nicole.marie.phelps@gmail.com");
             mail.From = new MailAddress("oregonstate.appchallenge@gmail.com", "No Reply", System.Text.Encoding.UTF8);
             mail.Subject = "This mail is send from asp.net application";
             mail.SubjectEncoding = System.Text.Encoding.UTF8;
