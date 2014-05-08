@@ -62,4 +62,10 @@
         <span class="style2">
       <strong>  Corvallis real-time bus app, with map view, for Android</strong></span> 
         <br /> by Phillip Carter, Benjamin Friedman, and Paul Burris</p>
+
+    <p>
+        <span class="style2">
+      <strong>  Music equalizer app for Android</strong></span> 
+        <br /> by Keaton Wallace, Patrick Oliver, and Antonio Dimarco</p>
+
 </asp:Content>
